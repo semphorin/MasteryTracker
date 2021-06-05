@@ -1,0 +1,260 @@
+{
+    "Frames": [
+        {
+            "name": "Ash Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Atlas Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Banshee Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Chroma Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Ember Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Equinox Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Excalibur Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Frost Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Gara Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Hydroid Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Inaros Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Ivara Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Limbo Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Loki Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Mag Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Mesa Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Mirage Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Nekros Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Nezha Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Nova Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Nyx Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Oberon Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Octavia Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Rhino Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Saryn Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Titania Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Trinity Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Valkyr Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Vauban Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Volt Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Wukong Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        },
+        {
+            "name": "Zephyr Prime",
+            "mastered": true,
+            "blueprint": true,
+            "neuroptics": true,
+            "chassis": true,
+            "systems": true
+        }
+    ]
+}
